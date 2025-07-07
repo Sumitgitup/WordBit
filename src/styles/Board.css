@@ -1,0 +1,8 @@
+/* Styles for the Wordle grid */
+.board {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  max-width: 300px;
+  margin: 20px auto;
+}

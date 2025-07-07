@@ -1,0 +1,8 @@
+/* Headers.module.css */
+.headers {
+  display: flex;
+  font-size: larger;
+  font-weight: 900;
+  padding: 10px;
+
+}
