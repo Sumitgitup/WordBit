@@ -9,6 +9,6 @@ A React-based Wordle game where players guess a 5-letter word in up to 6 attempt
 - API integration for random words (configurable)
 
 ## Setup
-1. Clone the repository: `git clone <repo-url>`
+1. Clone the repository: `git clone https://github.com/Sumitgitup/wordBit-backend.git`
 2. Install dependencies: `npm install`
 3. Set up environment variables in `.env`:
